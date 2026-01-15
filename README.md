@@ -1,83 +1,68 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bbsphw&label=Profile%20views&color=0e75b6&style=flat" alt="bbsphw" />
-  
-  <h1>Hi 👋, I'm Boss</h1>
-  
-  <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(in+training);I+turn+coffee+into+code;And+sometimes+create+bugs+🐛" alt="Typing SVG" />
-  </a>
-</div>
-</div>
+<h1>Hi there 👋, I'm Boss</h1>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3578E5&center=false&vCenter=true&width=500&lines=Full+Stack+Developer+(in+training);Next.js+%26+Laravel+Enthusiast;MySQL+Database+Wrestler+🤼;Coffee+Driven+Developer+☕" alt="Typing SVG" />
+</a>
 
 <br/>
 
-- 🔭 I’m currently working on **📊 Complex Invoice & Stock System (Trying to make sure the inventory count doesn't reach negative infinity)**
-
-- 🌱 I’m currently learning **🧠 Advanced Next.js patterns & How to make MySQL DB behave nicely.**
-
-- 👯 I’m looking to collaborate on **🤝 Any React/Laravel projects (or a student project that needs a 4th member to carry!)**
-
-- 💬 Ask me about **💬 Next.js, Tailwind, Laravel Livewire, or why my code works on localhost but not in production.**
-
-- 📫 How to reach me **📫 sophonwit.ts@gmail.com (I reply faster than my API calls).**
-
-- ⚡ Fun fact **⏰ I can fix a critical bug in 5 minutes, but naming a variable takes me 2 hours.**
+- 🔭 I’m currently working on **Complex Invoice & Stock System** (Trying to make sure the inventory count doesn't reach negative infinity).
+- 🌱 I’m currently learning **Advanced Next.js patterns & Oracle Database Optimization.**
+- 👯 I’m looking to collaborate on **Any React/Laravel projects** (or a student project that needs a 4th member to carry!).
+- 💬 Ask me about **Next.js, Tailwind, Laravel Livewire, or why my code works on localhost but not in production.**
+- 📫 How to reach me **sophonwit.ts@gmail.com** (I reply faster than my API calls).
+- ⚡ Fun fact **I can fix a critical bug in 5 minutes, but naming a variable takes me 2 hours.**
 
 <br/>
 
-<div align="center">
-  <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/sophonwit-thapseng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sophonwit-thapseng" height="30" width="40" /></a>
-  <a href="https://fb.com/sophonwit thapseng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sophonwit thapseng" height="30" width="40" /></a>
-  <a href="https://instagram.com/bbsphw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bbsphw_" height="30" width="40" /></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Languages and Tools:</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <br/> <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <br/> <br/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbsphw&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="bbsphw's stats" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbsphw&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="bbsphw's top languages" />
-      </td>
-    </tr>
-  </table>
-  
+<h2>Languages and Tools</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <br/>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bbsphw&theme=tokyonight&hide_border=true" alt="bbsphw's streak" />
-</div>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <br/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<br/>
+
+<h2>Github Stats</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bbsphw&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" alt="bbsphw's stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbsphw&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="bbsphw's top languages" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbsphw&theme=tokyonight&hide_border=true&background=00000000" alt="bbsphw's streak" />
+</p>
+
+<br/>
+
+<h2>Connect with me</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/sophonwit-thapseng" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://fb.com/sophonwit thapseng" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/bbsphw_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:sophonwit.ts@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<br/>
