@@ -42,7 +42,7 @@
   <a href="https://linkedin.com/in/sophonwit-thapseng" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://fb.com/sophonwit thapseng" target="_blank">
+  <a href="https://fb.com/Sophonwit.Ts" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://instagram.com/bbsphw_" target="_blank">
