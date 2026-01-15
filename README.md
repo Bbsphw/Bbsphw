@@ -37,18 +37,6 @@
 
 <br/>
 
-<h2>Github Stats</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbsphw&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" alt="bbsphw's stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbsphw&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="bbsphw's top languages" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbsphw&theme=tokyonight&hide_border=true&background=00000000" alt="bbsphw's streak" />
-</p>
-
-<br/>
-
 <h2>Connect with me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/sophonwit-thapseng" target="_blank">
