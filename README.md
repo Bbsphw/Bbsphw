@@ -7,7 +7,7 @@
 <br/>
 
 - 🔭 I’m currently working on **Complex Invoice & Stock System** (Trying to make sure the inventory count doesn't reach negative infinity).
-- 🌱 I’m currently learning **Advanced Next.js patterns & Oracle Database Optimization.**
+- 🌱 I’m currently learning **Advanced Next.js patterns & MySQL Database Optimization.**
 - 👯 I’m looking to collaborate on **Any React/Laravel projects** (or a student project that needs a 4th member to carry!).
 - 💬 Ask me about **Next.js, Tailwind, Laravel Livewire, or why my code works on localhost but not in production.**
 - 📫 How to reach me **sophonwit.ts@gmail.com** (I reply faster than my API calls).
